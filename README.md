@@ -4,3 +4,4 @@ Datasets:
 3. data.csv Company bankruptcy
 4. weather.csv Australia rainfalls
 5. car_dataset.csv Vehicle dataset
+6. heart.csv Heart disease
