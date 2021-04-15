@@ -5,3 +5,4 @@ Datasets:
 4. weather.csv Australia rainfalls
 5. car_dataset.csv Vehicle dataset
 6. heart.csv Heart disease
+7. merc.csv car price (Mercedes)
