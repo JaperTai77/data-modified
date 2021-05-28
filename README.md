@@ -8,3 +8,4 @@ Datasets:
 7. merc.csv car price (Mercedes)
 8. healthcare-dataset-stroke-data.csv stroke prediction dataset
 9. meal file: meal demand prediction dataset
+10. Alcohol_Sales.csv Alcohol sales
