@@ -9,3 +9,5 @@ Datasets:
 8. healthcare-dataset-stroke-data.csv stroke prediction dataset
 9. meal file: meal demand prediction dataset
 10. Alcohol_Sales.csv Alcohol sales
+11. House Demolitions in Palestine.csv
+12. Palestine Body Count.csv
