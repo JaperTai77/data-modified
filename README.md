@@ -13,3 +13,6 @@ Datasets:
 12. Palestine Body Count.csv
 13. anime.csv animation with info
 14. bundesliga7team.csv bundesliga offense dataset
+15. Ads_CTR_Optimisation.csv Click rate
+16. water_potability.csv Water quality
+17. F1: Formula 1 data
