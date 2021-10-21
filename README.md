@@ -17,4 +17,4 @@ Datasets:
 16. water_potability.csv Water quality
 17. F1: Formula 1 data
 18. sales.csv Supermarket sales data
-19. ab_data.csv land use data
+19. ab_data.csv conversion rate
