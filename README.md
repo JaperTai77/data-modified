@@ -18,3 +18,4 @@ Datasets:
 17. F1: Formula 1 data
 18. sales.csv Supermarket sales data
 19. ab_data.csv conversion rate
+20. tweet_emotions.csv text emotion detection
