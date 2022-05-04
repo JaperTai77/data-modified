@@ -20,3 +20,4 @@ Datasets:
 19. ab_data.csv conversion rate
 20. tweet_emotions.csv text emotion detection
 21. breastCancer.csv breast cancer classification
+22. 2010_____.csv tempature data set
